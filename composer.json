@@ -1,0 +1,19 @@
+{
+    "name": "vladyslav10111/cross-domain-login",
+    "description": "Enables cross-domain login for WordPress sites with configurable domains.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Vladyslav10111\\CrossDomainLogin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vladyslav Tkachenko",
+            "email": "vladyslav10111@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
